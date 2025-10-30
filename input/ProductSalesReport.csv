@@ -1,0 +1,11 @@
+id,product,category,amount,country
+1,Widget_A,Electronics,150.00,USA
+2,Widget_B,Home,75.50,Canada
+3,Widget_C,Electronics,220.00,UK
+4,Widget_D,Sports,45.99,USA
+5,Widget_E,Home,89.99,Germany
+6,Widget_F,Electronics,310.00,France
+7,Widget_G,Sports,125.50,USA
+8,Widget_H,Home,199.99,Canada
+9,Widget_I,Electronics,275.00,UK
+10,Widget_J,Sports,65.00,USA

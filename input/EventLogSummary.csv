@@ -1,0 +1,16 @@
+event_id,service,severity,message,user_id
+EVT_001,auth_service,INFO,User login successful,user_123
+EVT_002,payment_service,WARNING,Payment retry attempt,user_456
+EVT_003,api_gateway,ERROR,Rate limit exceeded,user_789
+EVT_004,database,INFO,Connection established,system
+EVT_005,auth_service,INFO,User logout,user_123
+EVT_006,email_service,WARNING,Email queue delayed,system
+EVT_007,payment_service,INFO,Payment processed,user_456
+EVT_008,api_gateway,ERROR,Invalid API key,user_999
+EVT_009,cache_service,INFO,Cache cleared,admin_001
+EVT_010,auth_service,ERROR,Failed login attempt,user_888
+EVT_011,payment_service,INFO,Refund initiated,user_456
+EVT_012,database,WARNING,Slow query detected,system
+EVT_013,api_gateway,INFO,Request completed,user_789
+EVT_014,email_service,INFO,Email sent successfully,system
+EVT_015,auth_service,INFO,Password reset requested,user_777

@@ -1,0 +1,16 @@
+sensor_id,temperature,humidity,pressure,location,status
+SENSOR_001,22.5,45.2,1013.25,Building_A,active
+SENSOR_002,23.1,47.8,1012.80,Building_B,active
+SENSOR_003,21.8,43.5,1013.50,Building_A,active
+SENSOR_004,24.2,50.1,1012.30,Building_C,active
+SENSOR_005,22.9,46.7,1013.00,Building_B,active
+SENSOR_006,23.5,48.3,1012.75,Building_A,maintenance
+SENSOR_007,21.2,44.9,1013.40,Building_C,active
+SENSOR_008,24.8,51.2,1012.20,Building_B,active
+SENSOR_009,22.3,45.8,1013.15,Building_A,active
+SENSOR_010,23.7,49.1,1012.60,Building_C,active
+SENSOR_011,21.5,43.2,1013.30,Building_A,active
+SENSOR_012,24.5,50.8,1012.40,Building_B,active
+SENSOR_013,22.7,46.3,1013.05,Building_C,active
+SENSOR_014,23.2,48.7,1012.85,Building_A,active
+SENSOR_015,21.9,44.5,1013.20,Building_B,active
